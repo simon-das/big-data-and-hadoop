@@ -1,0 +1,1 @@
+15 * * * * /home/hadoop/development/sam1307.sp@gmail.com-Assignment-3-Autoschedule.sh
