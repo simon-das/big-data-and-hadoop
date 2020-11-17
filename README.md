@@ -37,7 +37,7 @@ games
 ### Problem Description:
 We all know that Covid-19 pandemic is going on world-wide and almost every corner of the world is impacted globally. You are given with a Covid-19 dataset collected from the 
 internet to do certain analysis.  
-**All the raw responses are kept in file named Covid_Analysis_DataSet.csv.
+**All the raw responses are kept in file named Covid_Analysis_DataSet.csv  
 Detail schema is self-explanatory.**
 ###### _The following analytics shall be done:_
 Month, Year and countryterritoryCode wise, please derive Infection Rate and Death Rate.  
